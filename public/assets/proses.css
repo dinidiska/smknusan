@@ -1,0 +1,14 @@
+.btn {
+    color: aliceblue !important;
+    background-color: #059212 !important;
+    border: #059212 !important;
+}
+
+
+.small a {
+    color: #059212;
+}
+
+.small a:hover {
+    color: #059212;
+}
